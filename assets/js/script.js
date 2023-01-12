@@ -64,9 +64,7 @@ projects.forEach((project) => {
 
 
 // Blob
-const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('canvas'), antialias: true });
-renderer.setPixelRatio(window.devicePixelRatio);
-renderer.setSize(452, 250);
+
 const scene = new THREE.Scene();
 let camera = new THREE.PerspectiveCamera(27, window.innerWidth / window.innerHeight, 0.1, 1000);
 camera.position.z = 5;
@@ -85,12 +83,6 @@ const update = function () {
 	sphere.geometry.normalsNeedUpdate = true;
 	sphere.geometry.verticesNeedUpdate = true;
 }
-function animate() {
-	update();
-	renderer.render(scene, camera);
-	requestAnimationFrame(animate);
-}
-requestAnimationFrame(animate);
 
 // Nav
 
