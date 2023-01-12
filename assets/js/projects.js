@@ -6,27 +6,22 @@ const projects = [
     },
     {
         "name": "Bucks",
-        "description": "The economy of Dawn!",
+        "description": "The economy of Dawn! You can earn them by winning tournaments and events.",
         "url": "https://dawnfeatures.glitch.me/bucks.html"
     },
     {
         "name": "EXP & Levels",
-        "description": "Work in Progress.",
+        "description": "Earn experience, reach new levels and unlock new features!",
         "url": ""
     },
     {
         "name": "Gangs",
-        "description": "Work in Progress.",
+        "description": "Join your favorite gang and fight for victory!",
         "url": ""
     },
     {
         "name": "Azuremons",
-        "description": "Work in Progress.",
-        "url": ""
-    },
-    {
-        "name": "Leagues",
-        "description": "Work in Progress.",
+        "description": "Create your favorite pokemon with almost endless customization of moves and abilities!",
         "url": ""
     },
     {
