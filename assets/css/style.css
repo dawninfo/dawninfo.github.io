@@ -195,6 +195,14 @@ body {
 	border: 2px solid white;
 }
 
+.tyre {
+    font-family: MatterTRIAL;
+    font-weight: 700;
+    line-height: 1;
+    font-size: 90px;
+    margin-top: -10px;
+}
+
 .gale-button {
     padding: 0 25px 0 25px;
     border-radius: 5px;
@@ -227,6 +235,42 @@ body {
     background-image: linear-gradient(-45deg , #007CF0, #00DFD8, var(--start-color-2), var(--end-color-2), var(--start-color), var(--end-color));
     animation: gradient 5s ease-in-out infinite;
     background-size: 400% 400%;
+}
+
+.flicker-slow {
+    animation: flicker 3s linear infinite;
+}
+
+.flicker-slow-2 {
+    animation: flicker 2.5s linear infinite;
+}
+
+.flicker-fast {
+    animation: flicker 1s linear infinite;
+}
+
+@keyframes flicker {
+
+    0%,
+    19.999%,
+    22%,
+    62.999%,
+    64%,
+    64.999%,
+    70%,
+    100% {
+        opacity: .99;
+
+    }
+
+    20%,
+    21.999%,
+    63%,
+    63.999%,
+    65%,
+    69.999% {
+        opacity: 0.4;
+    }
 }
 
 .line {
