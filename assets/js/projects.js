@@ -17,7 +17,7 @@ const projects = [
     {
         "name": "Gangs",
         "description": "Join your favorite gang and fight for victory!",
-        "url": ""
+        "url": "https://dawnfeatures.glitch.me/gangs.html"
     },
     {
         "name": "Azuremons",
@@ -25,8 +25,8 @@ const projects = [
         "url": ""
     },
     {
-        "name": "PSGO Card",
+        "name": "PSGO Cards",
         "description": "Work in Progress.",
-        "url": ""
+        "url": "https://dawnfeatures.glitch.me/psgo.html"
     },
 ]
