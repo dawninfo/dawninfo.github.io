@@ -324,11 +324,7 @@ body {
     max-width: 71%;
 }
 
-.about img {
-    z-index: 1;
-    position: relative;
-    border-radius: 3%;
-}
+
 
 .about-title {
     padding-bottom: 12px;
@@ -601,9 +597,6 @@ body {
         text-align: center
     }
 
-    .about img {
-        width: 250px;
-    }
     .about-light {
         display: none;
     }
@@ -620,10 +613,6 @@ body {
 
     .project-content {
         flex-direction: column;
-    }
-
-    #canvas {
-        display: none;
     }
 
     .card {
