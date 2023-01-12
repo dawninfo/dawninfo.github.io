@@ -11,7 +11,7 @@ const projects = [
     },
     {
         "name": "EXP & Levels",
-        "description": "Earn experience, reach new levels and unlock new features!",
+        "description": "Earn experience, reach new levels and unlock more features!",
         "url": ""
     },
     {
