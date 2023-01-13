@@ -18,12 +18,12 @@ const tips = [
 		content: 'Discord'
 	},
 	{
-		query: '#instagram',
-		content: 'Instagram',
+		query: '#faq',
+		content: 'FAQ',
 	},
 	{
-		query: '#github',
-		content: 'Github',
+		query: '#reddit',
+		content: 'Reddit',
 	},
 ];
 
