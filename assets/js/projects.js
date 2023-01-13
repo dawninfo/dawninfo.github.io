@@ -12,7 +12,7 @@ const projects = [
     {
         "name": "EXP & Levels",
         "description": "Earn experience, reach new levels and unlock more features!",
-        "url": ""
+        "url": "https://dawnfeatures.glitch.me/exp.html"
     },
     {
         "name": "Gangs",
@@ -22,7 +22,7 @@ const projects = [
     {
         "name": "Azuremons",
         "description": "Create your favorite pokemon with almost endless customization of moves and abilities!",
-        "url": ""
+        "url": "https://dawnfeatures.glitch.me/azuremons.html"
     },
     {
         "name": "PSGO Cards",
