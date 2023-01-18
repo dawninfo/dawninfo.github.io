@@ -1,7 +1,7 @@
 const projects = [
     {
         "name": "Pets",
-        "description": "A mini-simulator built into dawn. Coded and maintained by Dawn.",
+        "description": "A mini-simulator built into dawn. Coded and maintained by us.",
         "url": "https://dawnfeatures.glitch.me/pets.html"
     },
     {
