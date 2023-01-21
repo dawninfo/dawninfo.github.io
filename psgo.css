@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    />
+    <link rel="shortcut icon" href="https://pbs.twimg.com/media/DBypA04VYAA2XBS.png" />
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/cool.css" />
+    <link rel="stylesheet" href="assets/css/now-ui-kit.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,800,900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Features: PSGO</title>
+  </head>
+  <body>
+   
+    <div class="heading">
+      <h1 class="display-5 title">PSGO:</h1>
+      <p class="subtitle">Dawn's Pokemon Cards.</p>
+      <ul>
+  <li><h5 style="color: #DA70D6">What are PSGO Cards? How can I get them?</h5></li><br>
+       PSGO cards are the only collectibles for the server for now, but some users will buy rare cards from you.  We're in the process of doing a little more with these but you can't actually play the tcg on Dawn (Although that would be amazing, wouldn't it?!).  You can earn cards by winning tours in official rooms (second place doesn't get a card) or you can exchange Gang Points for Pack Credits, and even buy packs from the shop!  Type <code>/psgo pack shop</code> to see all the packs you can buy.  You can use /psgo card search to see all the cards in a pack.
+        
+</ul>
+      
+      <br />
+
+      <br /><br /><br /><br /><br /><br />
+
+      <script
+        src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"
+      ></script>
+      <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"
+      ></script>
+      <script
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"
+      ></script>
+      <script src="js/now-ui-kit.min.js"></script>
+    </div>
+  </body>
+</html>
