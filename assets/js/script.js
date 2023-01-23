@@ -56,13 +56,13 @@ projects.forEach((project) => {
 			<h3 class="card-heading">${project.name}</h3>
 			<p class="card-description">${project.description}</p>
 			<div class="buttons">
-			  <button onclick="window.open('${project.url}', '_blank')" class="card-button">More Info&nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+			  <button onclick="window.location.href = ('${project.url}');" class="card-button">More Info&nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i></button>
 			</div>
 			</div>
   		</div>`
 })
 
-
+// Projects
 // Blob
 
 const scene = new THREE.Scene();
