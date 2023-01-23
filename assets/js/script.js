@@ -18,14 +18,15 @@ const tips = [
 		content: 'Discord'
 	},
 	{
-		query: '#faq',
-		content: 'FAQ',
+		query: '#forums',
+		content: 'Forums',
 	},
 	{
 		query: '#reddit',
 		content: 'Reddit',
 	},
 ];
+
 
 for (const { query, content } of tips) {
 	tippy(query, { content })
