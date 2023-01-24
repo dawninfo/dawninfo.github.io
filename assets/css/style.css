@@ -201,6 +201,12 @@ body {
   margin-top: -10px;
 }
 
+.dawnimg {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
 .gale-button {
   padding: 0 25px 0 25px;
   border-radius: 5px;
