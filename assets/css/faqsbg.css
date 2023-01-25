@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif !important;
      background-image: url("https://wallpaper.dog/large/17226001.png")!important;
-   background-size: 100% !important;
+   background-size: cover !important;
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
