@@ -321,6 +321,11 @@ body {
   background: linear-gradient(90deg, #7928ca, #ff0080) !important;
 }
 
+.news-label {
+  background: linear-gradient(90deg, cyan, #e3ff00) !important;
+}
+
+
 .label-number {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
